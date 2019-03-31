@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azzidix</title>
+    <link>https://azzidix.github.io/</link>
+    <description>Recent content on Azzidix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 Mar 2019 21:21:32 +0700</lastBuildDate>
+    
+	<atom:link href="https://azzidix.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1 Belajar Hugo</title>
+      <link>https://azzidix.github.io/posts/1-belajar-hugo/</link>
+      <pubDate>Sun, 31 Mar 2019 21:21:32 +0700</pubDate>
+      
+      <guid>https://azzidix.github.io/posts/1-belajar-hugo/</guid>
+      <description> Ini adalah blog pertama saya </description>
+    </item>
+    
+  </channel>
+</rss>
