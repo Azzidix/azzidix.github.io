@@ -5,10 +5,19 @@
     <link>https://azzidix.github.io/</link>
     <description>Recent content on Azzidix</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Mar 2019 21:21:32 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2019 23:16:01 +0700</lastBuildDate>
     
 	<atom:link href="https://azzidix.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2 Deploy Hugo</title>
+      <link>https://azzidix.github.io/posts/2-deploy-hugo/</link>
+      <pubDate>Sun, 31 Mar 2019 23:16:01 +0700</pubDate>
+      
+      <guid>https://azzidix.github.io/posts/2-deploy-hugo/</guid>
+      <description> Deploy hugo </description>
+    </item>
     
     <item>
       <title>1 Belajar Hugo</title>

@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://azzidix.github.io/posts/2-deploy-hugo/",
+        "title": "2 Deploy Hugo",
+        "section": "posts",
+        "date" : "2019.03.31",
+        "body": " Deploy hugo "
+    }
+,
+    {
         "ref": "https://azzidix.github.io/posts/1-belajar-hugo/",
         "title": "1 Belajar Hugo",
         "section": "posts",
